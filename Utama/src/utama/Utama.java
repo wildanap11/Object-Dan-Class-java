@@ -1,8 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//langkah program
+//download utama
+//bikin projek baru beri nama Utama
+//bikin class mahasiswa > coppas script mahasiswa
+//bikin class Kompleks > coppas script Kompleks
+//pastikan langkah urut agar program berjalan
+//Wildan Ap
 package utama;
 
 import java.util.Scanner;
